@@ -1,4 +1,3 @@
-print("Hello, World!")
 def simulador_aposentadoria(idade_atual, idade_aposentadoria, renda_anual, taxa_poupanca, taxa_retorno_investimento):
     saldo_acumulado = 0
     anos_para_aposentar = idade_aposentadoria - idade_atual
